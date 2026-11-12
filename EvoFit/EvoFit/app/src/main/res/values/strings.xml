@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EvoFit</string>
+    <string name="slogan">Sua evolução, nosso foco</string>
+    <string name="bem_vindo">Bem-vindo(a)!</string>
+    <string name="faca_login">Faça login para continuar</string>
+    <string name="hint_login">E-mail ou CPF</string>
+    <string name="hint_senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueceu_senha">Esqueceu sua senha?</string>
+    <string name="ou">Ou</string>
+    <string name="entrar_google">Entrar com Google</string>
+    <string name="sem_conta">Não tem uma conta?</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="meu_perfil">Meu Perfil</string>
+    <string name="meus_dados">Meus Dados</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="idade">Idade</string>
+    <string name="meus_alunos">Meus Alunos</string>
+    <string name="atividade">Atividade</string>
+    <string name="alunos">Alunos</string>
+    <string name="treinos">Treinos</string>
+    <string name="calendario">Calendário</string>
+    <string name="perfil">Perfil</string>
+</resources>
